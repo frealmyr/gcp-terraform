@@ -1,0 +1,1 @@
+docker build . --build-arg VERSION=0.12.20 --tag frealmyr/gcp-terraform:v0.12.20
